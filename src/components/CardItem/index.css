@@ -28,7 +28,7 @@ card-container {
   max-width: 322px;
   list-style-type: none;
 }
-.heading {
+.title {
   font-family: 'Roboto';
   font-size: 18px;
   font-weight: 500;
